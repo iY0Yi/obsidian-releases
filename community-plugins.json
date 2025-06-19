@@ -17451,13 +17451,6 @@
     "repo": "band/obsidian-folder-filelist"
   },
   {
-    "id": "glsl-viewer",
-    "name": "GLSL Viewer",
-    "author": "iY0Yi",
-    "description": "A GLSL preview plugin that enables real-time WebGL rendering with Shadertoy-style shader code.",
-    "repo": "iY0Yi/obsidian_glslviewer"
-  },
-  {
       "id": "folder-filelist",
       "name": "Folder Filelist",
       "author": "Bill Anderson",
@@ -17484,5 +17477,12 @@
     "author": "Zarstensen",
     "description": "Evaluate, solve and much more within LaTeX blocks using Sympy.",
     "repo": "zarstensen/obsidian-latex-math"
+  },
+  {
+    "id": "glsl-viewer",
+    "name": "GLSL Viewer",
+    "author": "iY0Yi",
+    "description": "A GLSL preview plugin that enables real-time WebGL rendering with Shadertoy-style shader code.",
+    "repo": "iY0Yi/obsidian_glslviewer"
   }
 ]
